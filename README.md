@@ -1,7 +1,7 @@
 # Sentiment Analyzer v2 — BERT & HuggingFace
 
 ## Overview
-Uses a pre-trained BERT model via HuggingFace Transformers to classify text sentiment with high accuracy.
+A lightweight NLP project that leverages a pre-trained BERT model via HuggingFace Transformers to classify text sentiment with high accuracy, outperforming traditional approaches like TF-IDF.
 
 ## Technologies
 Python, HuggingFace Transformers (distilbert-base-uncased-finetuned-sst-2-english)
